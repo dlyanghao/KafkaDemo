@@ -1,0 +1,3 @@
+需要下载较新版本的kafka（demo使用的是kafka_2.11-2.20）
+要先配置好并启动zookeeper
+kafka 配置好 advertised.listeners=PLAINTEXT://server.name:9092 和日志保存的文件夹即可
